@@ -48,7 +48,7 @@ _(More on the way... stay tuned 👀)_
 
 ## 📫 Let's Connect!
 
-- [LinkedIn]www.linkedin.com/in/sneha-ambaliya-0511a12bb
+- [LinkedIn]www.linkedin.com/in/sneha-ambaliya
 - 👩‍💻 Learning one line of code at a time 🌱
 
 ---
