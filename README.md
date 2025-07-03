@@ -36,9 +36,13 @@
 
 ## 💼 Projects I’ve Built:
 
-- **React Portfolio** – Modern personal site built using React + Tailwind  
+
 - **Todo App** – CRUD-based app using React and local storage  
-- **Product Card UI** – Responsive UI component built with pure HTML/CSS/JS  
+- **Product Card UI** – Responsive UI component built with pure HTML/CSS/JS
+- **realestate** - https://realestate.webbytouch.com/
+- **kidsa**-https://kidsa.webbytouch.com/
+- **bizcorp**-https://bizcorp.webbytouch.com/
+- **garden**-https://garden.webbytouch.com/
 
 _(More on the way... stay tuned 👀)_
 
