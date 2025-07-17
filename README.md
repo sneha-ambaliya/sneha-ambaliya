@@ -27,7 +27,7 @@
 
 ## 🧠 Currently Learning:
 
-- MEAN Stack (MongoDB, Express, Angular, Node.js)
+- MERN Stack (MongoDB, Express, React, Node.js)
 - REST APIs & Backend logic
 - Authentication & JWT
 - Clean Code + Best Practices
@@ -37,7 +37,9 @@
 ## 💼 Projects I’ve Built:
 
 
-- **Todo App** – CRUD-based app using React and local storage  
+- **Hotel** - https://hotelbysneha.vercel.app/
+- **webteck** - https://webbysneha.vercel.app/
+- **petstore**- https://petstore-seven.vercel.app/
 - **Product Card UI** – Responsive UI component built with pure HTML/CSS/JS
 - **realestate** - https://realestate.webbytouch.com/
 - **kidsa**-https://kidsa.webbytouch.com/
