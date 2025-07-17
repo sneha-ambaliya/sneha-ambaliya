@@ -40,7 +40,6 @@
 - **Hotel** - https://hotelbysneha.vercel.app/
 - **webteck** - https://webbysneha.vercel.app/
 - **petstore**- https://petstore-seven.vercel.app/
-- **Product Card UI** – Responsive UI component built with pure HTML/CSS/JS
 - **realestate** - https://realestate.webbytouch.com/
 - **kidsa**-https://kidsa.webbytouch.com/
 - **bizcorp**-https://bizcorp.webbytouch.com/
